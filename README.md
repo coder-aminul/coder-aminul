@@ -148,8 +148,8 @@ BizSuite is a **SaaS platform tailored for f-commerce & e-commerce sellers** in 
 ## 🌐 Online Presence
 
 - 🔗 [Softxen Technologies](https://softxen.com) — Founder & Lead Developer  
-- 💼 [LinkedIn](https://linkedin.com/in/aminulsoftxen) — Let’s connect professionally  
-- 📧 Email: albaytipro@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/aminul-islam-260069131) — Let’s connect professionally  
+- 📧 Email: coders.aminul@gmail.com
 
 ---
 
