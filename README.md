@@ -102,14 +102,22 @@ BizSuite is a **SaaS platform tailored for f-commerce & e-commerce sellers** in 
 **Languages & Tools**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-000?logo=yaml&logoColor=white)
+
+**Currently Learning**  
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 
 **Frontend**  
@@ -119,7 +127,7 @@ BizSuite is a **SaaS platform tailored for f-commerce & e-commerce sellers** in 
 ![TanStack Table](https://img.shields.io/badge/TanStack_Table-101010?logo=react-table&logoColor=white)
 ![Headless UI](https://img.shields.io/badge/Headless_UI-111827?logo=tailwind-css&logoColor=white)
 
-**Mobile**  
+**Mobile Application**  
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
 ![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?logo=tailwind-css&logoColor=white)
