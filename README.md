@@ -6,14 +6,14 @@ I'm a **Full Stack Developer**, **full-stack SaaS architect**, and the founder o
 
 ## 🧠 What I Do
 
-- 🚀 Build scalable **SaaS platforms** from the ground up
-- 🧾 Architect powerful **backend APIs** using **Node.js**, **TypeScript**, and **MongoDB**
-- 🧩 Design modular frontend systems with **React**, **Next.js (App Router)**, and **Tailwind CSS**
-- 📲 Craft cross-platform mobile experiences using **React Native (Expo)** with real-time sync
-- 📡 Implement **real-time communication** using **Socket.IO** and **Redis**
-- 🛡️ Focus on **secure authentication**, **multi-role authorization**, and **enterprise-grade architecture**
-- 💬 Automate business messaging with **WhatsApp Web.js**, **OneSignal**, and **Expo Notifications**
-- 📦 Manage DevOps with **GitHub Actions**, **PM2**, **VPS Deployments**, and **Cloud Integration (AWS S3)**
+- 🚀 Build scalable **SaaS platforms** from the ground up using **modern architecture and best practices**
+- 🧾 Architect powerful **backend APIs** using **Node.js**, **TypeScript**, **Go**, **C#**, and databases like **MongoDB**, **MySQL**, **PostgreSQL**
+- 🧩 Design modular, component-based frontend systems using **React**, **Next.js (App Router)**, and **Tailwind CSS**
+- 📲 Build cross-platform mobile apps using **React Native (Expo)** with seamless real-time sync
+- 📡 Develop **real-time communication systems** with **Socket.IO**, **Redis**, and **WebSockets**
+- 🛡️ Implement **secure authentication flows**, **multi-role authorization**, and **enterprise-level access control**
+- 💬 Integrate smart messaging flows using **WhatsApp Web.js**, **OneSignal**, and **Expo Notifications**
+- 📦 Automate infrastructure with **GitHub Actions**, **PM2**, and manage deployments on **VPS (Ubuntu)** and **cloud platforms like AWS**
 
 ---
 
