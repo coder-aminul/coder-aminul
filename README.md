@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Aminul Islam (aka Softxen)
+# 👋 Hi there, I'm Aminul Islam
 
-I'm a senior JavaScript engineer, full-stack SaaS architect, and the founder of Softxen Technologies, a software company focused on delivering high-performance, scalable solutions for modern businesses. I bring over 7+ years of hands-on experience building enterprise-level applications across real estate, CRM, e-commerce, and messaging automation domains.
+I'm a **Full Stack Developer**, **full-stack SaaS architect**, and the founder of **Softxen Technologies**, a software company focused on delivering high-performance, scalable solutions for modern businesses. I bring over **7+ years of hands-on experience** in building enterprise-level applications across **real estate, CRM, e-commerce, and messaging automation domains**.
 
 ---
 
@@ -19,30 +19,129 @@ I'm a senior JavaScript engineer, full-stack SaaS architect, and the founder of 
 
 ## 💼 Current Projects
 
-### 🏢 REsmartAPI
-A smart ERP backend built specifically for the **real estate CRM** industry. Handles rent, sales, finance, contracts, billing, and tenant management.
+### 🏢 REsmart
+A smart and scalable **ERP backend for the real estate CRM sector**, REsmart streamlines operations from rental and sales contracts to staff salaries and billing automation. Built using **Node.js**, **Express**, **TypeScript**, and **MongoDB**, it features:
 
-### 📲 WBsender API
-A **WhatsApp-based SaaS marketing tool**, enabling automated campaign flows, chatbot logic, bulk messaging, and custom reply workflows.
+- 📝 Rent Tenancy & Sales Contracts
+- 💵 Petty Cash, Staff Salary, and Billing Automation
+- 👥 Tenant & Customer Management with role-based access
+- 📲 Mobile app support with real-time notifications
+- ⚡ Real-time updates via **Socket.IO**
+- 🔐 Secure JWT Authentication
+
+---
+
+### 📲 WBsender
+A session-based **WhatsApp Marketing Platform** built on **Node.js**, **TypeScript**, and **whatsapp-web.js**, designed to send bulk personalized campaigns from connected WhatsApp numbers via QR login. Core features include:
+
+#### 🔧 Backend Features:
+- ✅ WhatsApp Session Management (QR-based)
+- ✅ Send Text, Image, Video, Document, Buttons, Lists, etc.
+- ✅ Real-time session updates via **Socket.IO**
+- ✅ MongoDB + Redis Integration
+- ✅ Clean modular code (TypeScript ESM-style)
+- ✅ File uploads, scheduled messaging, and error handling
+- ✅ API documented via Swagger
+
+#### 🌐 Frontend Features:
+- ✉️ Send single/bulk messages
+- 📇 Upload contacts from Excel
+- 📆 Campaign scheduling
+- 📁 Media management dashboard
+- 📊 Reporting and analytics view
+- ⚡ Real-time dashboard for message & session tracking
+
+---
 
 ### 🏘️ PropertySave
-A full-featured **property listing and saving platform** for agents and buyers. Includes real-time notifications, mobile/web sync, and shareable landing pages.
+A full-featured **SaaS Real Estate Management System** with a mobile-first design, built to help realtors and agents manage listings and leads seamlessly. Powered by **Next.js 15**, **React Native (Expo)**, and **Node.js** backend:
 
-### 🧠 BizAssistant (Upcoming)
-An AI-powered **micro business manager** to help small entrepreneurs automate daily tasks, lead generation, and customer engagement.
+- 🏠 Add, update, and bulk-share property listings
+- 📤 One-click WhatsApp sharing with image
+- 🧾 Lead management with meeting scheduling
+- 🔔 Push notifications and meeting reminders
+- 👥 Agent role management and tracking
+- 📈 Real-time dashboard & lead activity analytics
+- ⚡ Socket.IO integration for instant updates
+
+---
+
+### 🧠 BizSuite (Upcoming)
+BizSuite is a **SaaS platform tailored for f-commerce & e-commerce sellers** in Bangladesh, handling everything from product and inventory to courier and messaging automation. Built with **Node.js**, **Express**, **MongoDB**, and **TypeScript**, with future AI-powered CRM integration.
+
+#### 🚀 Key Modules:
+- 🛒 Product & Inventory Management with barcode/QR tools
+- 🧾 Order Management & POS system
+- 💬 WhatsApp Messaging Automation (order updates, receipts)
+- 🛍️ WooCommerce Integration
+- 📥 Facebook Messenger Inbox Integration
+- 🚚 Courier APIs: Pathao, Paperfly, Steadfast
+- 📊 Advanced Dashboard & Sales Analytics
+- 💰 Business Accounting: Income, expenses, profit/loss
+- 📄 PDF & Excel Reports Export
+- 🔐 Role-based User & Access Control
+- 🌐 Localization (Bangla, English, BDT currency)
+
+---
+
+### 🗂️ MediaGrid
+**MediaGrid** is a SaaS-ready **file & media management API** built with **Node.js**, **TypeScript**, **Multer**, and **MongoDB**. Designed to handle secure file operations for multi-tenant systems.
+
+#### 🚀 Features:
+- ✅ Upload images, videos, documents
+- 📁 Create, rename, and delete folders
+- 🔁 Move, copy, or delete files
+- 🔍 List and organize file structure
+- ☁️ Pluggable local or cloud (AWS S3) storage
+- 🔐 Secure, scalable architecture for SaaS use cases
 
 ---
 
 ## 🛠️ Tech Arsenal
 
-**Languages**: TypeScript, JavaScript, Bash, JSON, YAML  
-**Backend**: Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, Prisma  
-**Frontend**: React.js, Next.js 15, Tailwind CSS, TanStack Table, Headless UI  
-**Mobile**: React Native (Expo), NativeWind, Expo Notifications  
-**Realtime & Messaging**: Socket.IO, WhatsApp Web.js, Redis Pub/Sub  
-**DevOps**: PM2, Nginx, GitHub Actions, Cron, Docker, VPS (Ubuntu), UFW  
-**Integrations**: Stripe, OneSignal, AWS S3, Nodemailer, Multer  
-**Validation**: Zod, react-hook-form, Joi
+**Languages & Tools**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-000?logo=yaml&logoColor=white)
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![TanStack Table](https://img.shields.io/badge/TanStack_Table-101010?logo=react-table&logoColor=white)
+![Headless UI](https://img.shields.io/badge/Headless_UI-111827?logo=tailwind-css&logoColor=white)
+
+**Mobile**  
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?logo=tailwind-css&logoColor=white)
+
+**Realtime & Messaging**  
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_Web.js-25D366?logo=whatsapp&logoColor=white)
+
+**DevOps & Tools**  
+![PM2](https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+![Ubuntu VPS](https://img.shields.io/badge/VPS_Ubuntu-E95420?logo=ubuntu&logoColor=white)
+
+**Integrations & Utilities**  
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?logo=amazon-aws&logoColor=white)
+![Multer](https://img.shields.io/badge/Multer-4B5563?logo=mongodb&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-EA4335?logo=gmail&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-1E293B?logo=zod&logoColor=white)
 
 ---
 
