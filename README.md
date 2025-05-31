@@ -155,7 +155,7 @@ BizSuite is a **SaaS platform tailored for f-commerce & e-commerce sellers** in 
 
 ## ✨ I Believe In
 
-> “Code is not just instructions for a machine, it's an extension of human logic and creativity.”
+> “Code is more than logic. It's where human creativity and emotion meet machine precision.”
 
 - 🚀 Empowering businesses with automation & smart tools  
 - 🧠 Continuous learning & clean architecture  
